@@ -13,9 +13,9 @@ https://user-images.githubusercontent.com/24766565/162406292-45a8282f-4f8b-4f51-
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ](media/1.jpg) | ![](media/2.jpg) | ![](media/3.jpg) |
-| ![}(media/4.jpg) | ![](media/5.jpg) | ![](media/6.jpg)    |
-| ![](media/7.jpg) | ![](media/9.jpg) | ![](media/10.jpg) |
+| ![](media/1.jpg) | ![](media/2.jpg) | ![](media/3.jpg) |
+| ![](media/4.jpg) | ![](media/5.jpg) | ![](media/6.jpg)    |
+| ![](media/7.jpg) | ![](media/8.jpg) | ![](media/10.jpg) |
 
 
 
