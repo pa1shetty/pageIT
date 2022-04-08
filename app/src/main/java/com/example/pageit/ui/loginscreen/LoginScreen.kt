@@ -61,10 +61,12 @@ class LoginScreen : Fragment() {
         binding.loginButton.registerCallback(callbackManager, object :
             FacebookCallback<LoginResult> {
             override fun onCancel() {
+                hideLoading()
                 showToast(getString(R.string.error))
             }
 
             override fun onError(error: FacebookException) {
+                hideLoading()
                 showToast(getString(R.string.error))
             }
 

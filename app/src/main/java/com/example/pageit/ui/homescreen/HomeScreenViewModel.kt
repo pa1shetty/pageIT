@@ -99,6 +99,7 @@ class HomeScreenViewModel @Inject constructor(
         viewModelScope.launch(Dispatchers.IO) { databaseRepository.savePages(pageModules) }
     }
 
+    //Get user details from fb api.
     suspend fun getUserDetails() {
         try {
             networkRepository.getUserDetails(getFbUserAccessToken()).name?.let { name ->
@@ -106,6 +107,8 @@ class HomeScreenViewModel @Inject constructor(
                     name
                 )
             }
+        } catch (e: NoInternetException) {
+
         } catch (e: Exception) {
 
         }
