@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/drawable-v24/ic_baseline_settings_24.xml" value="0.1275" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/drawable-v24/ic_round_account_circle_24.xml" value="0.1275" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/drawable-v24/ic_round_circle.xml" value="0.1275" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1275" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/drawable/ic_round_account_circle..xml" value="0.1275" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/drawable/ic_round_power_settings.xml" value="0.1275" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/activity_main.xml" value="0.11614583333333334" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/feed_item.xml" value="0.11666666666666667" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/fragment_home_screen.xml" value="0.115625" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/fragment_login_screen.xml" value="0.11666666666666667" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/fragment_login_screen_new.xml" value="0.22735507246376813" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/fragment_page_details_screen.xml" value="0.22282608695652173" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/fragment_settings_screen.xml" value="0.11510416666666666" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/fragment_splash_screen.xml" value="0.11666666666666667" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/item_page.xml" value="0.6" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/page_item.xml" value="0.12411347517730496" />
+        <entry key="..\:/Workspace/pageIT/app/src/main/res/layout/ticket_item.xml" value="0.22282608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="retrofit2.http.GET" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
